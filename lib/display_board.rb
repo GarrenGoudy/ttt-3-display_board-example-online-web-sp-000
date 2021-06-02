@@ -7,4 +7,4 @@ def display_board
   puts {"   "|"   "|"   "}
 end 
 
-board = [" "," "," "," "," "," "," "," "," "," "]
+board = [3x3]
