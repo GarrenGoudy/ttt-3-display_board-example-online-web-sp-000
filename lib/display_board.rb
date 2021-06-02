@@ -7,4 +7,4 @@ def display_board
   print {"   |   |   "}
 end 
 
-def row1 ["   ", "   ", "   "]
+def row1 {"   ", "   ", "   "}
