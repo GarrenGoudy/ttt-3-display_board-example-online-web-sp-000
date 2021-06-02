@@ -6,3 +6,5 @@ def display_board
   print "------------"
   puts {"   "|"   "|"   "}
 end 
+
+board = [" "," "," "," "," "," "," "," "," "," "]
