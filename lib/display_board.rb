@@ -6,5 +6,3 @@ def display_board
   print "------------"
   puts {"   "|"   "|"   "}
 end 
-
-board = [3x3]
